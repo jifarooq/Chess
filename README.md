@@ -1,5 +1,5 @@
-#Chess
-- Classic game written in Ruby
+#Deeper Blue
+- Chess game written in Ruby
 - Features include tracking points, pieces captured, and a timer
 - Board FLIPS when it is your turn
 
