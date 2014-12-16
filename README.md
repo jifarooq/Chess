@@ -5,5 +5,5 @@
 
 ##To play
  - Clone this repo
- - Browse to the main chess folder from the command line
+ - Navigate to the DeeperBlue folder from the command line
  - Run `ruby game.rb`
