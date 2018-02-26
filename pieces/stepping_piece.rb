@@ -2,7 +2,7 @@ require_relative 'piece'
 
 class SteppingPiece < Piece
 
-  KING_DELTAS = [[ 0,-1], [-1,0], [0,1], [1, 0],[-1,-1], [-1,1], [1,1], [1,-1]]
+  KING_DELTAS =   [[ 0, -1], [-1, 0], [0, 1], [1, 0], [-1, -1], [-1, 1], [1, 1], [1, -1]]
   KNIGHT_DELTAS = [[-2, -1], [-2, 1], [-1, -2], [-1, 2], [1, -2], [1, 2], [2, -1], [2, 1]]
   
   def moves
